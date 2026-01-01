@@ -87,7 +87,7 @@ export class News extends Component {
           </div>
 
           <div className="col-md-4">
-            <NewsItem title="My title A" description="This is a description" />
+            <NewsItem title="My title B" description="This is a description" />
           </div>
 
           <div className="col-md-4">
