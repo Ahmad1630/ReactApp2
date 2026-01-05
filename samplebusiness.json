@@ -1,0 +1,169 @@
+{
+  "status": "ok",
+  "totalResults": 64,
+  "articles": [
+    {
+      "source": { "id": null, "name": "Financial Times" },
+      "author": "Valentina Romei, Sam Fleming",
+      "title": "US to extend productivity lead on back of AI boom, say economists - Financial Times",
+      "description": "FT survey shows America’s dominance in areas such as technology is not expected to reverse soon",
+      "url": "https://www.ft.com/content/1af296f4-32af-4ec2-9d40-cd3c1c744a89",
+      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F1541fd5c-9d3c-4fc5-bcac-ad265934dd23.jpg?source=next-barrier-page",
+      "publishedAt": "2026-01-04T05:00:12Z",
+      "content": "Then $75 per month. Complete digital access to quality FT journalism on any device. Cancel anytime during your trial."
+    },
+    {
+      "source": { "id": "usa-today", "name": "USA Today" },
+      "author": "Fernando Cervantes Jr.",
+      "title": "Powerball winning numbers for Saturday, January 3, 2026 - USA Today",
+      "description": "Who will win Powerball's first drawing of the year with a jackpot worth $64 million?",
+      "url": "https://www.usatoday.com/story/money/lottery/2026/01/03/powerball-winning-numbers-saturday-january-3-2026/88000303007/",
+      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/01/03/USAT/88000327007-20251223-t-231802-z-1121805438-rc-2-mmiafatag-rtrmadp-3-usapowerball.JPG?crop=4719,2656,x0,y245&width=3200&height=1802&format=pjpg&auto=webp",
+      "publishedAt": "2026-01-04T04:15:00Z",
+      "content": "For the first Powerball drawing of 2026, held on Saturday, Dec. 3, the jackpot was $64 million, with a cash value of $28.9 million.\r\nTo date, no one has yet claimed the $1.8 billion Christmas Eve jac… [+3612 chars]"
+    },
+    {
+      "source": { "id": null, "name": "KABC-TV" },
+      "author": null,
+      "title": "Ground delay issued at LAX due to staffing issues, according to FAA - ABC7 Los Angeles",
+      "description": "A ground delay at LAX caused major issues for flights on Saturday evening. According to the FAA, it was issued due to staffing issues.",
+      "url": "https://abc7.com/post/ground-delay-issued-lax-due-staffing-issues-according-faa/18349072/",
+      "urlToImage": "https://cdn.abcotvs.com/dip/images/18349750_010326-kabc-lax-ground-delay-tn-img.jpg?w=1600",
+      "publishedAt": "2026-01-04T03:51:08Z",
+      "content": "LOS ANGELES (KABC) -- A ground delay at Los Angeles International Airport (LAX) caused major issues for flights on Saturday evening. According to the Federal Aviation Administration (FAA), it was iss… [+502 chars]"
+    },
+    {
+      "source": { "id": "axios", "name": "Axios" },
+      "author": "Herb Scribner",
+      "title": "Someone made a huge profit predicting Maduro's capture. Here's what happened - Axios",
+      "description": "The winnings come as the rules governing prediction markets are still evolving.",
+      "url": "https://www.axios.com/2026/01/03/maduro-capture-bets-trade-prediction-markets",
+      "urlToImage": "https://images.axios.com/VcLKLZphGntQ3MYb_CH2re5WrEo=/0x99:5555x3223/1366x768/2026/01/03/1767457032571.jpeg",
+      "publishedAt": "2026-01-04T01:23:34Z",
+      "content": "<ul><li>These bets many of which were on Maduro's capture, and are now on what happens next to the ousted leader will renew longstanding questions about inside information and access to prediction ma… [+1743 chars]"
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "The Wall Street Journal",
+      "title": "Finance Industry Eyes Investment Opportunities in Venezuela - The Wall Street Journal",
+      "description": null,
+      "url": "https://www.wsj.com/livecoverage/venezuela-strikes/card/finance-industry-eyes-investment-opportunities-in-venezuela-CmtLevzMTXEvRLkADjbG",
+      "urlToImage": null,
+      "publishedAt": "2026-01-04T01:09:25Z",
+      "content": null
+    },
+    {
+      "source": { "id": null, "name": "BBC News" },
+      "author": null,
+      "title": "How UK plush toy Jellycat conquered China - BBC",
+      "description": "The plushies bring \"emotional value\" to Chinese youth navigating economic uncertainty.",
+      "url": "https://www.bbc.com/news/articles/cj0e36p74v1o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/df89/live/a8c28410-c106-11f0-801d-4586c230975c.jpg",
+      "publishedAt": "2026-01-03T23:02:08Z",
+      "content": "Grace Tsoi,BBC World Service, Hong Kongand\r\nGemini Cheng,BBC News Chinese, Hong Kong\r\nStella Huang bought her first Jellycat plush toy when she lost her job during the pandemic.\r\nA school friend was … [+7056 chars]"
+    },
+    {
+      "source": { "id": null, "name": "TheStreet" },
+      "author": "Tobi Opeyemi Amure, Celine Provini",
+      "title": "Buffett leaves, and Berkshire investors waste no time reacting - thestreet.com",
+      "description": "Buffett is out, Greg Abel is in as Berkshire investors start to flinch.",
+      "url": "https://www.thestreet.com/markets/buffett-leaves-and-berkshire-investors-waste-no-time-reacting",
+      "urlToImage": "https://www.thestreet.com/.image/w_1200,h_630,g_auto,c_fill/NDA6MDAwMDAwMDAyODA4NjY4/power-lunch-pictured-warren-buffett-ceo-of-berkshire-hathaway-and-one-of-the-worlds-wealthiest-people-in-an-interview-on-march-31-2015-photo-by-adam-jefferycnbcnbcu-photo-banknbcuniversal-via-getty-im.jpg",
+      "publishedAt": "2026-01-03T21:00:00Z",
+      "content": "Key Points\r\n<ul><li>Warren Buffett steps down as Berkshire Hathaway CEO; Greg Abel takes over amid market uncertainty.</li><li>Berkshire shares lagged the S&amp;P 500, reflecting a \"succession discou… [+7326 chars]"
+    },
+    {
+      "source": { "id": null, "name": "mySA" },
+      "author": "Taylor Kamnetz",
+      "title": "Texas is home to one of the best pizza chains in the US, report says. - MySA",
+      "description": "Texas-based chain Pizza Patrón is one of the top 15 pizza chains in the country, according to Yelp. The chain is now headquartered in San Antonio.",
+      "url": "https://www.mysanantonio.com/food/article/pizza-patron-texas-yelp-21269712.php",
+      "urlToImage": "https://s.hdnux.com/photos/01/44/56/73/26406616/3/rawImage.jpg",
+      "publishedAt": "2026-01-03T16:47:22Z",
+      "content": "A pizza from Pizza Patrón. The chain, which is now headquartered in San Antonio, is one of the best pizza chains in the U.S., according to Yelp.\r\nPizza Patrón \r\nThere is now an official hierarchy of … [+2041 chars]"
+    },
+    {
+      "source": { "id": null, "name": "CNBC" },
+      "author": "Michelle Fox",
+      "title": "Bank of America expects a boost in dividends in 2026. These stocks have payouts that beat the market - CNBC",
+      "description": "Bank of America's Savita Subramanian expects stocks’ dividend growth will rise year over year in 2026.",
+      "url": "https://www.cnbc.com/2026/01/03/bank-of-america-expects-a-boost-in-dividend-growth-in-2026.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108244526-1766359931333-gettyimages-2252283299-1535022-me-glendale-galleria-holiday-shopping-10-mjc.jpeg?v=1767396288&w=1920&h=1080",
+      "publishedAt": "2026-01-03T14:43:38Z",
+      "content": null
+    },
+    {
+      "source": { "id": null, "name": "CNBC" },
+      "author": "Jeff Cox",
+      "title": "After a bruising 2025, the Fed faces another slew of challenges in the year ahead - CNBC",
+      "description": "The central bank heads into 2026 facing a slew of political and policy challenges.",
+      "url": "https://www.cnbc.com/2026/01/03/federal-reserve-powell-face-challenges-in-2026.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108240105-17653956362025-12-10t193846z_1206640470_rc2vdiai4uf4_rtrmadp_0_usa-fed.jpeg?v=1767398179&w=1920&h=1080",
+      "publishedAt": "2026-01-03T14:37:41Z",
+      "content": "U.S. Federal Reserve Chair Jerome Powell holds a press conference following a two-day meeting of the Federal Open Market Committee at the U.S. Federal Reserve in Washington, Dec. 10, 2025.\r\nThe Feder… [+5477 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Klm.com" },
+      "author": "KLM",
+      "title": "Impact of Winter Weather on KLM Flights - KLM Newsroom",
+      "description": "Update January 3, 2:30 PMPersistent winter weather conditions are reducing runway capacity at Schiphol. As a result, KLM is forced to cancel 295 flights for January 4. We understand this is inconvenient for our customers. We advise them to keep checking the l…",
+      "url": "https://news.klm.com/impact-of-winter-weather-on-klm-flights/",
+      "urlToImage": "https://content.presspage.com/uploads/162/2c9c6f9e-3f6a-41e5-aed9-8d5384f64132/1920_vliegtuigmetsneeuw.jpg?10000",
+      "publishedAt": "2026-01-03T14:26:37Z",
+      "content": "Update January 3, 2:30 PMPersistent winter weather conditions are reducing runway capacity at Schiphol. As a result, KLM is forced to cancel 295 flights for January 4. We understand this is inconveni… [+949 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Motley Fool" },
+      "author": "Robert Izquierdo, The Motley Fool",
+      "title": "Nvidia's $65 Billion Forecast Sends a Clear Message About the AI Boom - Yahoo Finance",
+      "description": "The semiconductor giant sees wider AI adoption as a necessity.",
+      "url": "https://www.fool.com/investing/2026/01/03/nvidias-65-billion-forecast-sends-a-clear-message/",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/ZWNDq17ks0n70YpVIEsEMA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MjA-/https://media.zenfs.com/en/motleyfool.com/72b38d3d0555ea7ec25f513b3f31a4be",
+      "publishedAt": "2026-01-03T14:21:00Z",
+      "content": "<ul><li>The artificial intelligence industry has seen rapid growth, leading to speculation that the AI sector may be in a bubble.\r\n</li><li>Nvidia has been generating strong sales of its AI accelerat… [+5894 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Motley Fool" },
+      "author": "David Dierking, The Motley Fool",
+      "title": "The Vanguard ETF That Warren Buffett's Comments Point to as a Top Pick Today - Yahoo Finance",
+      "description": "Warren Buffett is well-known for his quality- and value-driven style of investing. He has referred to one Vanguard ETF in particular as the best option for...",
+      "url": "https://www.fool.com/investing/2026/01/03/the-vanguard-etf-that-warren-buffetts-comments-poi/",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/bapcC4L54Ep2sp8uEzJThQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MDA-/https://media.zenfs.com/en/motleyfool.com/3c042482414e01368ea2e0ff1a893083",
+      "publishedAt": "2026-01-03T14:06:00Z",
+      "content": "<ul><li>Warren Buffett typically invests in individual stocks, but he has given his stamp of approval to ETFs, including one in particular.\r\n</li><li>Buffett's principles of simplicity, diversificati… [+5373 chars]"
+    },
+    {
+      "source": { "id": "fortune", "name": "Fortune" },
+      "author": "The Associated Press",
+      "title": "'This isn't how I thought the story would go': Sprinkles Cupcakes founder mourns company shutdown after starting in her kitchen - Fortune",
+      "description": "Private equity has come for your favorite vending machine cupcake.",
+      "url": "https://fortune.com/2026/01/03/sprinkles-cupcakes-bankruptcy-private-equity-vending-machine/",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/01/AP26002834771023.jpg?resize=1200,600",
+      "publishedAt": "2026-01-03T13:49:00Z",
+      "content": "Sprinkles Cupcakes, a company famous for selling sweet treats in vending machines known as cupcake ATMs, has shut down after 20 years of operation around the United States, according to its former ow… [+1790 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Investor's Business Daily" },
+      "author": null,
+      "title": "Google, Other AI Stocks Trade Near Buy Points. One Named 'Top Stock' For 2026 - Investor's Business Daily",
+      "description": "Three of the four — Amphenol, Alphabet and Reddit — have ties to artificial intelligence, which is expected to remain a major investment theme in 2026.",
+      "url": "https://www.investors.com/news/stocks-to-watch-google-googl-stock-aph-rddt/",
+      "urlToImage": "https://www.investors.com/wp-content/uploads/2026/01/Stock-MarketMonitor-screens-adobe.jpg",
+      "publishedAt": "2026-01-03T13:00:00Z",
+      "content": "Information in Investors Business Daily is for informational and educational purposes only and should not be construed as an offer, recommendation, solicitation, or rating to buy or sell securities. … [+1064 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Yahoo Entertainment" },
+      "author": "Emily Mason",
+      "title": "Cathie Wood’s ARK Fintech ETF Defies 2025 Slump, Gaining 30% on AI Bet - Yahoo Finance",
+      "description": "The inclusion of stocks such as artificial intelligence firm Palantir Technologies Inc., up 135% last year, and TV streaming platform Roku Inc., up 46...",
+      "url": "https://finance.yahoo.com/news/cathie-wood-ark-fintech-etf-130000235.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/owqaOyBB4CdbVaW7gXB1cg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_holding_pen_162/3cf924dc91490864611a219a18456f06",
+      "publishedAt": "2026-01-03T13:00:00Z",
+      "content": "Photographer: Jason Alden/Bloomberg\r\n(Bloomberg) -- Cathie Woods ARK Blockchain &amp; Fintech Innovation ETF delivered a standout 29% return in 2025, defying an industry downturn by stretching the de… [+4376 chars]"
+    }
+  ]
+}
