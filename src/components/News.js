@@ -83,7 +83,7 @@ export class News extends Component {
               title="My title"
               description="This is a description"
               imgurl="https://www.aljazeera.com/wp-content/uploads/2025/12/AP25365153696099-1767157848.jpg?resize=1920%2C1367"
-            />
+              newsUrl="TODO"/>
           </div>
 
           <div className="col-md-4">
