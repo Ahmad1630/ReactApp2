@@ -12,11 +12,11 @@ export class NewsItem extends Component {
       <div> 
 
         <div className="card" style={{width: "18rem"}}>
-          <img src={imgurl} className="card-img-top" alt="..."/> // img url from props goes here
+          <img src={imgurl} className="card-img-top" alt="..."/> 
             <div className="card-body"> 
-              <h5 className="card-title">{title}</h5> // title from props goes here
-              <p className="card-text">{description}</p> // description from props goes here
-              <a href="/newstdetaul/" className="btn btn-primary">Read more</a> // news url from props goes here
+              <h5 className="card-title">{title}</h5> 
+              <p className="card-text">{description}</p> 
+              <a href="/newstdetaul/" className="btn btn-primary">Read more</a> 
             </div>
         </div>     
 
