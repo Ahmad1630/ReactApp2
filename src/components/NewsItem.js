@@ -11,12 +11,12 @@ export class NewsItem extends Component {
 
       <div> 
 
-        <div className="card" style={{width: "18rem"}}>
+        <div className="card my-2" style={{width: "18rem"}}>
           <img src={imgurl} className="card-img-top" alt="..."/> 
             <div className="card-body"> 
-              <h5 className="card-title">{title}</h5> 
-              <p className="card-text">{description}</p> 
-              <a href="/newstdetaul/" className="btn btn-primary">Read more</a> 
+              <h5 className="card-title">{title.slice(0, 40)}...</h5> 
+              <p className="card-text">{description.slice(0, 90)}...</p> 
+              <a href={newsUrl} target='_blank' className="btn btn-primary">Read more</a> 
             </div>
         </div>     
 

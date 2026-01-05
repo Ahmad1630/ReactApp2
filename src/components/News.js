@@ -1,10 +1,11 @@
 import React, { Component } from "react";
 import PropTypes from "prop-types";
 import NewsItem from "./NewsItem.js";
+import ReactDOM from "react-dom/client";
 
 export class News extends Component {
 
-  articles = "articles" [{
+  articles = [{
       "source": {
         "id": "al-jazeera-english",
         "name": "Al Jazeera English"
@@ -78,21 +79,18 @@ export class News extends Component {
         <h1 className="mb-3">News</h1>
 
         <div className="row">
-          <div className="col-md-4">
+        {this.state.articles.map((element) => {
+          
+          return <div className="col-md-4">
             <NewsItem
-              title="My title"
-              description="This is a description"
-              imgurl="https://www.aljazeera.com/wp-content/uploads/2025/12/AP25365153696099-1767157848.jpg?resize=1920%2C1367"
-              newsUrl="TODO"/>
+              key={element.url}
+              title={element.title}
+              description={element.description}
+              imgurl={element.urlToImage}
+              newsUrl={element.url}/>
           </div>
+        })}
 
-          <div className="col-md-4">
-            <NewsItem title="My title B" description="This is a description" />
-          </div>
-
-          <div className="col-md-4">
-            <NewsItem title="My title" description="This is a description" />
-          </div>
         </div>
       </div>
     );
